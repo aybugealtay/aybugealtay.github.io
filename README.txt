@@ -25,7 +25,7 @@ Credits:
 
 	Icons:
 		Font Awesome (fontawesome.io)
-		Combio icon: computational biology by kliwir art from <a href="https://thenounproject.com/browse/icons/term/computational-biology/" target="_blank" title="computational biology Icons">Noun Project</a> (CC BY 3.0)
+		Combio icon: computational biology by kliwir art from Noun Project
 
 	Other:
 		jQuery (jquery.com)
